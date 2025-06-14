@@ -1,0 +1,1 @@
+# Index-of-Economic-Freedom-2022-Data-Analysis-Project
