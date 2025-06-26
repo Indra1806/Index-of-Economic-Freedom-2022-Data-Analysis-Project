@@ -8,7 +8,7 @@ A comprehensive data analysis and visualization project conducted as part of the
 ## 🌍 Dashboard Access  
 
 🔗 [**View Live on Tableau Public**](#)  
-📱 **Scan the QR code in [`/assets/QR_code.png`](./assets/QR_code.png)**
+📱 **Scan the QR code in [`Documentation/CoverPhoto.png`](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)**
 
 ---
 
