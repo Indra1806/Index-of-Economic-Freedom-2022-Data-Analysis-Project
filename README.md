@@ -159,7 +159,9 @@ This project is provided under the **SmartInternz Internship Program** for acade
 ## 🚀 Ready to Explore?  
 Visit the live dashboard now and experience how **data meets policy**.
 
-🔗 [**Launch Tableau Dashboard**](#)  
+🔗 [**Launch Tableau Dashboard-2**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+)  
 📱 Scan QR → [`/assets/QR_code.png`](./assets/QR_code.png)
 
 ---
