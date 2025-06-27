@@ -7,8 +7,8 @@ A comprehensive data analysis and visualization project conducted as part of the
 
 ## 🌍 Dashboard Access  
 
-🔗 [**View Live on Tableau Public**](#)  
-📱 **Scan the QR code in [`Documentation/CoverPhoto.png`](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)**
+🔗 [**View Live on Tableau Public (6-7)**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📱 [**Scan the QR code**](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)
 
 ---
 
@@ -69,17 +69,17 @@ Index-of-Economic-Freedom-2022-Data-Analysis-Project/
 
 | #  | Title                                                     | Description |
 |----|-----------------------------------------------------------|-------------|
-| 1  | **Size vs. Score: Populous Nations vs Freedom**           | Examines population size and freedom score relation |
-| 2  | **Top 40 by GDP Growth Rate**                             | Visualizes GDP growth and freedom tiers |
-| 3  | **GDP (PPP) vs. Monetary Freedom**                        | Highlights wealth and central policy strength |
-| 4  | **Inflation vs. Unemployment**                            | Reveals macroeconomic tradeoffs |
-| 5  | **Inflation Rate by Country**                             | Spotlights inflation hotspots globally |
-| 6  | **Index Score vs 5-Year GDP Growth**                      | Long-term growth versus policy stability |
-| 7  | **Freedom Score vs GDP Growth (Scatter Plot)**            | Clusters countries by growth and freedom |
-| 8  | **Index Score vs Inflation Levels**                       | High inflation and low freedom correlations |
-| 9  | **Bubble Chart: GDP vs Freedom Score**                    | Economic might vs. liberal policy extent |
-| 10 | **Financial vs Investment Freedom**                       | Private sector access vs regulatory ease |
-| 11 | **Tableau Story Dashboard**                               | Narrative-driven insight journey |
+| 1  | **2022 Economic freedom score**           | This map/visualization demonstrates the index score of all the 176 countries in the dataset |
+| 2  | **Top 40 by GDP Growth Rate**                             | This Map demonstrates the top 40 ranking countries according to the 2022 economic freedom index |
+| 3  | **Bottom ranking countries in the index**                        | This map demonstrates the bottom ranking countries according to the 2022 economic index freedom |
+| 4  | **Index score based on unemployment rate**                            | This column chart demonstrates the unemployment across different countries and its effect on the final index score |
+| 5  | **Index score based on financial freedom**                             | This treemap demonstrates the effect of financial freedom on the index score. we can see from the map that, countries in sub-saharan africa have lesser extent of financial freedom |
+| 6  | **Index score based on population**                      | This horizontal bar chart demonstrates if population of a country is in anyway affecting the final index score of a country |
+| 7  | **Index score based on 5 year on GDP growth rate(%)**            | This gantt bar chart demonstrates the effect of 5 year GDP growth rate % on final index score |
+| 8  | **Inflation rate in different countries**                       | This area chart describes the effect of inflation on final standing of a country.as we can see, venezuela has the worst inflation in the world. |
+| 9  | **Correlation between inflation and unemployment**                    | This line graph demonstrates the correlation between inflation and unemployment. we observe from the graph that, inflation and unemployment are closely related |
+| 10 | **Correlation between GDP(PPP) and monetary freedom**         | This line graph demonstrates the correlation between GDP per capita (PPP) and monetary freedom of a country |
+| 11 | **Top 40 countries by GDP growth rate**                               | This chart demonstrates the GDP growth rate of different countries, and the effect of it on their final rank |
 
 ---
 
