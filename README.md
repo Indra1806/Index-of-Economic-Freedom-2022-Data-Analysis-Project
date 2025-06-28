@@ -6,8 +6,8 @@ A comprehensive data analysis and visualization project conducted as part of the
 ---
 
 ## 🌍 Dashboard Access  
-
-🔗 [**View Live on Tableau Public (6-7)**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [**View Live on Tableau Public**](https://public.tableau.com/shared/X7RWJWGPR?:display_count=n&:origin=viz_share_link)  
+🔗 [**View Live on Tableau Public**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📱 [**Scan the QR code**](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)
 
 ---
@@ -159,6 +159,7 @@ This project is provided under the **SmartInternz Internship Program** for acade
 ## 🚀 Ready to Explore?  
 Visit the live dashboard now and experience how **data meets policy**.
 
+🔗 [**Launch Tableau Dashboard-1**](https://public.tableau.com/shared/X7RWJWGPR?:display_count=n&:origin=viz_share_link)  
 🔗 [**Launch Tableau Dashboard-2**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📱 Scan QR → [`/assets/QR_code.png`](./assets/QR_code.png)
 
