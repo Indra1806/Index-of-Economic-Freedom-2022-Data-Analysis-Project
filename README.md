@@ -32,39 +32,6 @@ We sought to answer key questions like:
 
 ---
 
-# 📁 Project Directory: Index-of-Economic-Freedom-2022-Data-Analysis-Project
-
-```
-Index-of-Economic-Freedom-2022-Data-Analysis-Project/
-│
-├── README.md                         # Project overview and documentation
-│
-├── data/                             # Dataset files (raw + cleaned)
-│   ├── raw_data.xlsx                 # Original data from sources
-│   └── cleaned_data.csv              # Processed data used for Tableau
-│
-├── dashboard/                        # Tableau workbooks and screenshots
-│   ├── final_dashboard.twbx          # Final published dashboard
-│   ├── dashboard_story.twbx          # Tableau story file with narration
-│   └── screenshots/                  # Exported chart previews
-│       ├── viz1_population_vs_score.png
-│       ├── viz2_gdp_growth_top40.png
-│       ├── viz3_gdp_ppp_vs_monetary.png
-│       ├── ...
-│       └── viz11_tableau_story.png
-│
-├── documentation/                   # Project report, narratives & visuals
-│   ├── Project_Report.docx           # Internship report (submission file)
-│   ├── captions_and_storylines.md    # Written insights for each sheet
-│   └── cover_poster.jpg              # Visual poster for display/sharing
-│
-├── assets/                          # QR codes, presentation slides, etc.
-│   ├── QR_code.png                   # QR to dashboard (print/poster use)
-│   └── internship_presentation.pptx  # Final presentation slide deck
-```
-
----
-
 ## 📊 Visualizations Overview
 
 | #  | Title                                                     | Description |
@@ -160,8 +127,7 @@ This project is provided under the **SmartInternz Internship Program** for acade
 Visit the live dashboard now and experience how **data meets policy**.
 
 🔗 [**Launch Tableau Dashboard-1**](https://public.tableau.com/shared/X7RWJWGPR?:display_count=n&:origin=viz_share_link)  
-🔗 [**Launch Tableau Dashboard-2**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📱 Scan QR → [`/assets/QR_code.png`](./assets/QR_code.png)
+🔗 [**Launch Tableau Dashboard-2**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
