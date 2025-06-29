@@ -98,8 +98,8 @@ The dashboard integrates storytelling with interactive filters. Each sheet inclu
 
 | Name        | Role                                                |
 |-------------|-----------------------------------------------------|
-| [**Jahnavi**](https://github.com/jhanu07) | Dashboard design, Visual storytelling, Documentation |
-| [**Indrasena Reddy Bala**](https://github.com/Indra1806) | Data wrangling, Calculated fields, Story Integration |
+| [**Indrasena Reddy Bala**](https://github.com/Indra1806) | Dashboard design, Visual storytelling, Documentation |
+| [**Jahnavi**](https://github.com/jhanu07) | Data wrangling, Calculated fields, Story Integration |
 
 ---
 
