@@ -8,7 +8,7 @@ A comprehensive data analysis and visualization project conducted as part of the
 ## 🌍 Dashboard Access  
 🔗 [**View Live on Tableau Public**](https://public.tableau.com/shared/X7RWJWGPR?:display_count=n&:origin=viz_share_link)  
 🔗 [**View Live on Tableau Public**](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17510176078800/06?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📱 [**Scan the QR code**](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)
+📱 [**Cover Photo**](https://github.com/Indra1806/Index-of-Economic-Freedom-2022-Data-Analysis-Project/blob/main/Documentation/CoverPhoto.png)
 
 ---
 
