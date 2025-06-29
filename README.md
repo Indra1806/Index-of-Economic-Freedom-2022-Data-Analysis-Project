@@ -98,8 +98,8 @@ The dashboard integrates storytelling with interactive filters. Each sheet inclu
 
 | Name        | Role                                                |
 |-------------|-----------------------------------------------------|
-| **Jahnavi** | Dashboard design, Visual storytelling, Documentation |
-| **Indrasena Reddy Bala** | Data wrangling, Calculated fields, Story Integration |
+| [**Jahnavi**](https://github.com/jhanu07) | Dashboard design, Visual storytelling, Documentation |
+| [**Indrasena Reddy Bala**](https://github.com/Indra1806) | Data wrangling, Calculated fields, Story Integration |
 
 ---
 
@@ -115,11 +115,6 @@ This project is provided under the **SmartInternz Internship Program** for acade
 - **The Heritage Foundation** for the Economic Freedom Index dataset  
 - **Tableau** for empowering data storytelling  
 
----
-
-## 📸 Sneak Peek – Screenshots
-
-> View all visualization screenshots in [`/dashboard/screenshots/`](./dashboard/screenshots/)
 
 ---
 
